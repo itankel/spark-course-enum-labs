@@ -1,0 +1,8 @@
+# Project exclude paths
+/target/
+/spark-course-enum-labs.iml
+/src/main/java/com/ifat/bdd/spark/labs/lab_hello_world/
+/data/hello.txt
+/pom.xml
+/.idea/
+/data/
